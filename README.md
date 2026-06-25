@@ -2,5 +2,5 @@
 
 This repository will contain the material used for the experiments reported in our scientific paper.
 
-The repository is currently under preparation while the paper is under review on .
+The repository is currently under preparation while the paper is under review.
 Upon acceptance of the paper, we will publicly release all the material required to reproduce the reported experiments.
