@@ -1,6 +1,6 @@
 # Deductive Logic in Language Models: Horizontal vs. Vertical Reasoning
 
-The repository is currently under preparation while the paper **[[1]]([https://arxiv.org/abs/2510.09340](https://doi.org/10.3390/make8070214))** is under review.
+The repository is currently under preparation while the paper **[[1]](https://doi.org/10.3390/make8070214)** is under review.
 Upon acceptance of the paper, we will publicly release all the material required to reproduce the reported experiments.
 
 # Bibliography
