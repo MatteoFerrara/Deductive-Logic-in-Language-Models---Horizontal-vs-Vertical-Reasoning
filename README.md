@@ -5,3 +5,5 @@ Upon acceptance of the paper, we will publicly release all the material required
 
 # Bibliography
 [1] D. Maltoni, and M. Ferrara, "Deductive Logic in Language Models: Horizontal vs. Vertical Reasoning", Machine Learning and Knowledge Extraction, 2026.
+
+PROVA
